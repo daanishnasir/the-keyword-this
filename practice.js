@@ -82,7 +82,8 @@ var getYear = function(){
 
 //Note(no tests)
   //Code Here
-
+getYear.call(prius);
+getYear.call(mustang);
 
 //New Problem
 
