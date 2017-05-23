@@ -103,8 +103,12 @@ var userName = getMyUsername.call(myUser); //Fix this
 //Note(no tests)
   //Answer Here
 
+Undefined
+
+
 //In the example above, what is the 'this keyword' bound to when getMyUsername runs?
 
   //Answer Here
+  Window
 
 //Fix the getMyUsername invocation so that userName will be equal to 'iliketurtles'.
