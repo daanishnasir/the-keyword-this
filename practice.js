@@ -18,9 +18,8 @@
       //Answer
 
   // 4) What does .bind do?
-        //  It can create a brand new function
-      //Answer
-
+  
+ //.bind sets the context for use at a later time in the program.
 
 //Next Problem
 
